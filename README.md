@@ -17,7 +17,8 @@ It needs to run on Java 1.8 and uses Maven for dependency management
 You can get the Offer Webservice started by:
 
    a) On your IDE, run the OfferWebservice class as an application
-   b) Or from a terminal run the same class:
+
+   b) Or from a terminal run the same class
 
 ### Release
 
@@ -69,9 +70,9 @@ This will create the executable jar with the release
 ## Running the tests
 
 Run the OfferWebserviceTest class on your IDE, or run the maven command:
-
+  ```
 mvn test
-
+  ```
 ## Built With
 
 * [Spark Framework](http://sparkjava.com/documentation) - The web framework used
